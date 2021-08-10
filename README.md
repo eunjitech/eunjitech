@@ -1,16 +1,26 @@
-### Hi there 👋
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunjitech&count_bg=%4g4g4g&title_bg=%23FF4949&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/eunjitech)
 
-<!--
-**eunjitech/eunjitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&text=EunjiLee&fontSize=70&animation=blink)
+  
+# Hi I'm [Eunji](https://eunjitech.github.io/) ✋
+  
+👩🏻‍💻 I'm a passionate frontend developer from South Korea.
 
-Here are some ideas to get you started:
+### Tech Stack
+![](https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=Javascript&logoColor=white)
+![](https://img.shields.io/badge/React-orange?style=flat-square&logo=React&logoColor=white)
+![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+  ![](https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white)
+  
+Techs that I've used 
+ 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eunjitech@gmail.com)](mailto:eunjitech@gmail.com) [![](https://img.shields.io/badge/-Blog-blue?style=flat-square)](https://eunjitech.notion.site/Develope-Note-1da6c5d2ea6148848a1a2580eaafacdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+  
+ 
+ </div>
