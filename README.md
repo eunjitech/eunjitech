@@ -3,7 +3,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&text=EunjiLee&fontSize=70&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&text=EunjiLee&fontSize=70&animation=blink)
   
 # Hi I'm [Eunji](https://eunjitech.github.io/) ✋
 <br/>
